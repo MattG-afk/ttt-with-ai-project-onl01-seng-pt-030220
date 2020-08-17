@@ -6,7 +6,7 @@ class Board
     end
 
     def reset!
-        @cells = [" ", " ", " ", " ", " ", "", " ", " ", " "]
+        @cells = [" ", " ", " ", " ", " ", " ", " ", " ", " "]
     end
 
     def input_to_index(input)
